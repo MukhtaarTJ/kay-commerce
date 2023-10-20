@@ -1,0 +1,20 @@
+.footerStyle {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.containerStyle {
+  display: flex;
+  justify-content: space-around;
+}
+
+.listStyle {
+  list-style: none;
+  padding: 0;
+}
+
+.socialIconsStyle {
+  font-size: 24px;
+}

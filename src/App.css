@@ -1,0 +1,10 @@
+a {
+  text-decoration: none;
+  color: azure;
+  font-weight: 300;
+  font-size: larger;
+}
+.nav-brand {
+  margin-left: 60px !important;
+  font-weight: 500;
+}
